@@ -2,3 +2,4 @@ russia
 china
 usa
 japan
+naive
